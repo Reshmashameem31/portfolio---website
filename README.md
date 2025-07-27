@@ -30,6 +30,6 @@ Welcome to my *personal portfolio website*, where I showcase my skills, projects
 
 ## 📁 How to view
 
-- Live website()
-- Github link()
+- Live website(https://reshmashameem31.github.io/portfolio---website/)
+- Github link(https://github.com/Reshmashameem31/portfolio---website)
 
